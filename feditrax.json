@@ -1,0 +1,134 @@
+{
+    "launch": false,
+    "brand": "Found, Followed and Federated",
+    "license": "all image and sound (CC) BY-NC-SA",
+    "message": "Wild growth outside the walled gardens",
+    "description": "From the Fediverse : Pieces within The Gooseyard perimeter.",
+    "albums": [
+        {
+            "title": "Postal Collage",
+            "path": "https://mediacdn.aus.social/media_attachments/files",
+            "notes": {
+                "attribution": "Repacking Lost Goods",
+                "artist": "Invention and Collaboration",
+                "caption": "Synthesis as Thesis"
+            },
+            "tracks": [
+                {
+                    "download": true,
+                    "share": true,
+                    "track": "115/375/978/235/363/337/original/3af37c859434ca9b.mp3",
+                    "name": "The Iris"
+                },
+                {
+                    "download": true,
+                    "share": true,
+                    "track": "115/253/022/262/885/115/original/203d4cd244768b22.mp3",
+                    "name": "Pachyderm Collisions [with @morachbeag@aus.social]"
+                },
+                {
+                    "download": true,
+                    "share": true,
+                    "track": "115/063/966/905/992/048/original/55199eb93d740091.mp3",
+                    "name": "The Silt Track"
+                },
+                {
+                    "download": true,
+                    "share": true,
+                    "track": "115/063/959/691/838/830/original/c3ec4fd8aaacb004.mp3",
+                    "name": "Lychgate Latch"
+                },
+                {
+                    "download": true,
+                    "share": true,
+                    "track": "115/105/607/852/425/997/original/e372f72b5ec9d66d.mp3",
+                    "name": "See How? [with @johann@masto.bike and Indii Wild Moon]"
+                },
+                {
+                    "download": true,
+                    "share": true,
+                    "track": "114/964/539/500/664/903/original/194286433e4f0b9d.mp3",
+                    "name": "Bone Yard Blues"
+                },
+                {
+                    "download": true,
+                    "share": true,
+                    "track": "112/235/639/199/077/994/original/c15af889cf05a790.mp3",
+                    "name": "Left To Chance [with @jimbob@aus.social]"
+                },
+                {
+                    "download": true,
+                    "share": true,
+                    "track": "114/363/524/770/987/925/original/b8d7abd65cd1b505.mp3",
+                    "name": "The Station Steps, Under The Clocks"
+                },
+                {
+                    "download": true,
+                    "share": true,
+                    "track": "113/622/439/719/490/990/original/8715f435a0755d2c.mp3",
+                    "name": "Broken Things, Broken Dreams [with Indii Wild Moon]"
+                },
+                {
+                    "download": true,
+                    "share": true,
+                    "track": "113/930/929/907/354/903/original/f89451913093bf63.mp3",
+                    "name": "Some Kind of Stomp"
+                },
+                {
+                    "download": true,
+                    "share": true,
+                    "track": "113/897/829/037/005/873/original/2109394373de729b.mp3",
+                    "name": "Alongside, Not Within It"
+                },
+                {
+                    "download": true,
+                    "share": true,
+                    "track": "113/480/930/394/161/732/original/002942974d72fe3a.mp3",
+                    "name": "Amongst The Thorns [with @jimbob@aus.social and Indii Wild Moon]"
+                },
+                {
+                    "download": true,
+                    "share": true,
+                    "track": "113/854/671/633/940/598/original/9cb0f8a5687b334d.mp3",
+                    "name": "Masked Commons"
+                },
+                {
+                    "download": true,
+                    "share": true,
+                    "track": "113/756/595/935/845/758/original/5a492f8b7ca4fead.mp3",
+                    "name": "Once Fully Baked"
+                },
+                {
+                    "download": true,
+                    "share": true,
+                    "track": "113/178/001/371/216/021/original/5eb151db07ed7856.mp3",
+                    "name": "Bella's Candle [with @jimbob@aus.social and Indii Wild Moon]"
+                },
+                {
+                    "download": true,
+                    "share": true,
+                    "track": "113/443/661/938/658/454/original/2ace54f7aa7e2265.mp3",
+                    "name": "Shimmers, Dissolving, Return"
+                },
+                {
+                    "download": true,
+                    "share": true,
+                    "track": "113/101/781/576/646/391/original/6e079fb8e448547d.mp3",
+                    "name": "No Kind Of Blues"
+                },
+                {
+                    "download": true,
+                    "share": true,
+                    "track": "111/911/568/803/557/205/original/b647ec6609709b17.mp3",
+                    "name": "This Arrow [with @jimbob@aus.social]"
+                },
+                {
+                    "download": true,
+                    "share": true,
+                    "track": "112/419/860/947/147/476/original/ce586b928d2a2844.mp3",
+                    "name": "Lucky's Blues (Give Him The Hat)"
+                }
+            ]
+        }
+    ]
+}
